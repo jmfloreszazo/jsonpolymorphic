@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "benchmark", "benchmark\benc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonpolymorphic_native_2", "jsonpolymorphic_native_2\jsonpolymorphic_native_2.csproj", "{75C884AB-5A47-4E7C-AC7E-E9F76E87B1D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonpolymorphic_custom_2", "jsonpolymorphic_custom_2\jsonpolymorphic_custom_2.csproj", "{F325DB23-88FE-4F13-AC0E-5AD136AB58D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{75C884AB-5A47-4E7C-AC7E-E9F76E87B1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C884AB-5A47-4E7C-AC7E-E9F76E87B1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C884AB-5A47-4E7C-AC7E-E9F76E87B1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F325DB23-88FE-4F13-AC0E-5AD136AB58D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F325DB23-88FE-4F13-AC0E-5AD136AB58D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F325DB23-88FE-4F13-AC0E-5AD136AB58D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F325DB23-88FE-4F13-AC0E-5AD136AB58D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
